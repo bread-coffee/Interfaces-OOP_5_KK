@@ -6,5 +6,6 @@ public class App {
         car.startMusic();
         car.upgradeEngine();
         car.start();
+        car.stop();
     }
 }
