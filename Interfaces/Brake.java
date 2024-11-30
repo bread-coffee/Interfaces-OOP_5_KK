@@ -1,5 +1,3 @@
-public interface Brake {
-    void start();
-    void stop();
-    void acc();
+public interface Brake{
+    void brake();
 }
